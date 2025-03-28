@@ -17,7 +17,7 @@
 > [Description](#what-is-it)<br>
 > [Features](#features)<br>
 > [Usage](#installation-and-usage)<br>
-> [Credits](#credits)
+> [Credits](#credits)<br>
 > [Understanding Commits](#commits-key)<br>
 
 ## Features
