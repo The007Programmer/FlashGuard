@@ -1,4 +1,4 @@
-![abc](image.png)
+![abc](docs/image.png)
 
 ## What is it?
 - A drive security tool for **Debian-based** systems. Verifies, logs, and tracks USB/Flash drive activity on device.
