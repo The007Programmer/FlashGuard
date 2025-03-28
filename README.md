@@ -1,6 +1,7 @@
-# FlashGuard
+![abc](image.png)
 
-- Simple security tool for computer and USB.
+## What is it?
+- A drive security tool for **Debian-based** systems. Verifies, logs, and tracks USB/Flash drive activity on device.
 
 ### Commits Key
 - SAFE: Stable and production-ready code; can be safely deployed.
