@@ -1,4 +1,4 @@
-![FlashGuardLogo](docs/image.png)
+![FlashGuardLogo](docs/flashguard.png)
 
 <p align="center">
     <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintainence">
